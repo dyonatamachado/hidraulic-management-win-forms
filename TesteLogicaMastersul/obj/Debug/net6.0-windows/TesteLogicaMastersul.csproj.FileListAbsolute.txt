@@ -1,0 +1,17 @@
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\bin\Debug\net6.0-windows\TesteLogicaMastersul.exe
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\bin\Debug\net6.0-windows\TesteLogicaMastersul.deps.json
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\bin\Debug\net6.0-windows\TesteLogicaMastersul.runtimeconfig.json
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\bin\Debug\net6.0-windows\TesteLogicaMastersul.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\bin\Debug\net6.0-windows\TesteLogicaMastersul.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.csproj.AssemblyReference.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.Main.resources
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.csproj.GenerateResource.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.AssemblyInfoInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.AssemblyInfo.cs
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.csproj.CoreCompileInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\refint\TesteLogicaMastersul.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\TesteLogicaMastersul.genruntimeconfig.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteLogicaMastersul\TesteLogicaMastersul\obj\Debug\net6.0-windows\ref\TesteLogicaMastersul.dll
